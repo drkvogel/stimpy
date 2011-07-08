@@ -1,0 +1,109 @@
+XRTSURG7: Radiotherapy VERSUS the same management without radiotherapy: ! Radiotherapy vs. Not
+radiotherapy : control = Radio. : Control = Radio. : Control
+ 1410 2v1             * Various         -
+ 1411 2v1             * Various         -
+ 1505 1v2             ?                 ?
+ 1506 1v2             ?                 ?
+ 1803 3+4+5+6v1+2     * B+S+AF+IMC     ?
+ 2620 1v2             * B(S)           B [50 Gy 30/f] +- BST [10 Gy] + tamoxifen/arimidex vs tamoxifen/arimidex
+ 3512 1v2             B+S              MV 50Gy breast/wall
+ 3526 1v2             * B+S            MV 50Gy breast/wall
+ 3908 2v1             B+S              RT vs not
+ 3908 4v3             B+S*             RT + tam vs tam
+ 4405 1v2             B                MV 48-54 Gy breast/wall
+ 4504 1v2             * B+S            B [40 Gy 16/f] + BST [12.5 Gy 5/f] + tamoxifen vs tamoxifen
+ 4715 3v2             * B              MV 50Gy breast/wall
+ 4752 3v2             * B              MV 50Gy breast/wall
+ 4725 2v3             * B+S            -
+ 5011 2v1             * BS+(AF)+IMC    MV 40-50Gy breast/wall; MV 40-50Gy axilla/fossa
+ 5023 2v1             * BS+(AF)+IMC    MV 40-50Gy breast/wall; MV 40-50Gy axilla/fossa
+38501 3v1             Various           RT vs not
+38501 4v2             * Various         RT + tam vs tam
+38504 2v1             Various           RT vs not
+38505 2v1             * Various         RT + tam vs tam
+ 5034 1v2             * B(S)           MV
+ 5039 1v2             *B+S             RT + hormonal vs hormonal; 40-50 Gy MV breast 10-15 Gy e or Ir192 boost
+ 6309 2v1             B                MV 66Gy breast/wall
+ 8315 1v2             * B+             ?
+ 8721 1v2             ?                 postoperative
+14103 1v2             B+S              MV 52·5Gy breast/wall
+15002 1v2             * B              MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15003 1v2             * B+AF           MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15004 1v2             * B              MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15005 1v2             * B+AF           MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15006 1v2             * B              MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15007 1v2             * B+AF           MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15008 1v2             * B              MV 54Gy breast/wall; MV 50Gy axilla/fossa
+15009 1v2             * B+AF           MV 54Gy breast/wall; MV 50Gy axilla/fossa
+21601 1v2             B                MV 54Gy breast/wall
+21602 1v2             B                MV 54Gy breast/wall
+29001 1v2             B                50Gy breast/wall
+31801 1v2             * B              BCS+AC2 tam if postm, TFF if premen; 50-56 Gy breast  
+35801 2v1             * B+S            50 Gy breast; 10 Gy boost  + chemo vs chemo           
+35802 2v1             * B+S            50 Gy breast; 10 Gy boost  + horm vs horm           
+35803 2v1             * B+S            50 Gy breast; 10 Gy boost  + (chemo+horm) vs (chemo+horm)           
+35804 2v1             * B+S            50 Gy breast; 10 Gy boost  + unspec vs unspec           
+ 9999 breast conservation, generally with axillary dissection
+ 1102 3v1             * BW+S+AF+IMC     MV 47·5Gy breast/wall; MV 47·5Gy axilla/fossa; MV 47·5Gy int. chain
+ 1102 4v2             * BW+S+AF+IMC       MV 47·5Gy breast/wall; MV 47·5Gy axilla/fossa; MV 47·5Gy int. chain
+ 1217 1v2             * BW+AF+IMC       50 Gy or 50.4 Gy 
+ 2001 1+2v3           BW+AF+(IMC)         MV 45Gy breast/wall; MV 45Gy axilla/fossa; MV 45Gy int. chain
+ 2102 3v2             * AF+IMC          MV 40Gy breast/wall; MV 40Gy axilla/fossa
+ 2102 6v5             * AF+IMC          MV 40Gy breast/wall; MV 40Gy axilla/fossa
+ 2206 1v2             * BW+AF+IMC       - 50Gy breast/wall; - 50Gy axilla/fossa; - 50Gy int. chain
+ 2207 1v2             * BW+AF+IMC       - 50Gy breast/wall; - 50Gy axilla/fossa; - 50Gy int. chain
+ 2211 1v2             * BW+AF+IMC       - 50Gy breast/wall; - 50Gy axilla/fossa; - 50Gy int. chain
+ 3514 2v1             AF+IMC            MV 45Gy axilla/fossa; MV 45Gy int. chain
+ 3902 2v1             * BW+AF+IMC       MV 50Gy breast/wall; MV 50Gy axilla/fossa; MV 44Gy int. chain
+ 4004 2v1             * BW+AF+IMC       MV 46-50Gy breast/wall; MV 46-50Gy axilla/fossa; MV 40Gy int. chain
+ 4401 2v3             * BW+AF+IMC       MV 38Gy breast/wall; MV 48-60Gy axilla/fossa; MV 48Gy int. chain
+ 4402 2v3             * BW+AF+IMC       MV 38Gy breast/wall; MV 48-60Gy axilla/fossa; MV 48Gy int. chain
+ 4736 2v1             AF+IMC            - 35-45Gy axilla/fossa; - 35-45Gy int. chain
+ 4737 2v1             AF+IMC            - 35-45Gy axilla/fossa; - 35-45Gy int. chain
+ 4738 2v1             AF+IMC            - 35-45Gy axilla/fossa; - 35-45Gy int. chain
+ 4740 2v1             AF+IMC            - 35-45Gy axilla/fossa; - 35-45Gy int. chain
+ 4741 2v1             AF+IMC            - 35-45Gy axilla/fossa; - 35-45Gy int. chain
+ 4902 3v1             * BW+AF+IMC       MV 50Gy breast/wall; MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 4903 2v1             * BW+AF+IMC       MV 50Gy breast/wall; MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 6501 2v1             BW+AF             OV 25-31Gy breast/wall; OV 36-52Gy axilla/fossa; OV 25-31Gy int. chain
+ 6502 1v2             AF+IMC            MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 6606 2v1             * BW+AF           MV 45Gy breast/wall; MV 45Gy axilla/fossa
+ 7001 1v2             * BW+AF+IMC       - 40Gy breast/wall; - 37·5Gy axilla/fossa; - 37·5Gy int. chain
+ 7508 1v2             * BW+AF+IMC       MV 46Gy breast/wall; MV 46Gy axilla/fossa; MV 46Gy int. chain
+ 7701 2v1             * (BW)+AF+IMC      (MV 50Gy breast/wall); MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 7701 4v3             (BW)+AF+IMC        (MV 50Gy breast/wall); MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 7702 3v2             * (BW)+AF+IMC      (MV 50Gy breast/wall); MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 7703 3v2             * (BW)+AF+IMC      (MV 50Gy breast/wall); MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 7704 2v1             * (BW)+AF+IMC      (MV 50Gy breast/wall); MV 50Gy axilla/fossa; MV 50Gy int. chain
+ 7801 1v2             AF+IMC            MV 65Gy axilla/fossa; MV 65Gy int. chain
+ 8501 2v1             * BW+AF+IMC       OV 37·8Gy breast/wall; OV 37·8Gy axilla/fossa; OV 37·8Gy int. chain
+ 8603 3v1             BW+AF+IMC         MV 55Gy breast/wall; MV 55Gy axilla/fossa; MV 55Gy int. chain
+ 9001 3v2             ?                 ?
+ 9601 3v1             * (BW)+AF+IMC      (MV 45-50Gy breast/wall); MV 45-50Gy axilla/fossa; MV 45Gy int. chain
+ 9601 4v2             * (BW)+AF+IMC      (MV 45-50Gy breast/wall); MV 45-50Gy axilla/fossa; MV 45Gy int. chain
+17001 2v1             (BW)+AF+IMC        OV/MV 47Gy breast/wall; MV 52Gy axilla/fossa; MV 48Gy int. chain
+17201 2v1             * BW+AF+IMC       OV/MV 36Gy breast/wall; MV 39-45Gy axilla/fossa; MV 39Gy int. chain
+17203 2v1             * BW+AF+IMC       ?
+18602 2v1             * BW+AF+IMC       MV 40Gy breast/wall; MV 40Gy axilla/fossa
+19202 2v1             * BW+AF           MV 50Gy breast/wall; MV 50Gy axilla/fossa
+19302 1v2             * BW+AF+IMC       - 50-60Gy breast/wall; - 50Gy axilla/fossa; - 50Gy int. chain
+19303 1v2             * BW+AF+IMC       - 50-60Gy breast/wall; - 50Gy axilla/fossa; - 50Gy int. chain
+23301 3v1             * BW+AF+IMC       MV 45Gy breast/wall; MV 45Gy axilla/fossa; MV 30Gy int. chain
+29402 3v2             ?
+ 9999 mastectomy with axillary dissection
+ 1412 2v1             * Various         -
+ 1413 2v1             * Various         -
+ 1415 2v1             * Various         -
+ 5007 1v2             BW+AF+IMC         MV 42·5Gy breast/wall; MV 45Gy axilla/fossa
+ 9301 1v2             BW+AF+IMC         MV 46Gy breast/wall; MV 55Gy axilla/fossa; MV 46Gy int. chain
+12910 1v2             (BW)+(IMC)         - 50Gy
+14904 2v1             * BW+AF           - 45Gy breast/wall; - 45Gy axilla/fossa
+ 9999 mastectomy with axillary sampling
+ 1402 2v1             BW+AF+IMC         OV/MV >55Gy breast/wall; OV/MV >55Gy axilla/fossa; OV/MV >55Gy int. chain
+ 4716 2v3             BW+AF+IMC         MV 50Gy breast/wall; MV 50-70Gy axilla/fossa; MV 45Gy int. chain
+ 5005 1v3             * BW+AF+IMC       OV/MV 42Gy breast/wall; MV 42Gy axilla/fossa
+ 5005 2v4             BW+AF+IMC         OV/MV 42Gy breast/wall; MV 42Gy axilla/fossa
+11304 3v1             * AF+IMC          - 42-48Gy fossa; - 42-48Gy int. chain
+11305 1v2             * AF+IMC          - 42-48Gy fossa; - 42-48Gy int. chain
+15402 2v1             BW+AF+IMC         OV 37-45Gy breast/wall; OV/MV 37-45Gy axilla/fossa; OV/MV 37-45Gy int. chain
+ 0000 0v0 mastectomy without axillary sampling or dissection
